@@ -3,4 +3,4 @@ Repositorio de práctica para probar GIT LFS en Fundamentos de Desarrollo en Vid
 
 [Archivo_Pesado_Creado](Media/ArchivoLFS.mp4)
 
-[GifEjecucion](Media/Ejecucion1.1.gif)
+![GifEjecucion](Media/Ejecucion1.1.gif)
